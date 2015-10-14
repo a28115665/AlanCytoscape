@@ -1,0 +1,33 @@
+{
+  "name": "CytoScapeSample",
+  "version": "1.0.0",
+  "description": "Build a first cytoscape sample",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-jshint": "^1.11.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "AlanCytoscape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a28115665/AlanCytoscape.git"
+  },
+  "keywords": [
+    "AlanCytoscape"
+  ],
+  "author": "Alan,Hsu",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/a28115665/AlanCytoscape/issues"
+  },
+  "homepage": "https://github.com/a28115665/AlanCytoscape"
+}
