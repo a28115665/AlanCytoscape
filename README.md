@@ -1,1 +1,3 @@
-<h1>Build a first AlanCytoscape</h1>
+AlanCytoscape
+=============================
+[Demo](http://a28115665.github.io/AlanCytoscape)  
